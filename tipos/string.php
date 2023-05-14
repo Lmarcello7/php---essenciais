@@ -15,7 +15,8 @@
 $escola = "TreinaWeb";
 
 //HEREDOC
-$conteudo = <<<HTML
+$conteudo
+ = <<<HTML
     <h1 style="color: red;">Olá $escola</h1>
     <p>Welcome to the mato</p>
 HTML;
